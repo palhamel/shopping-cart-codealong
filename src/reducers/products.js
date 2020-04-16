@@ -10,5 +10,5 @@ const productData = [
 // export our Slice
 export const products = createSlice({
   name: 'products',
-  initialState: 
+  initialState: productData
 })
