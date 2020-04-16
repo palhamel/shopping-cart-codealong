@@ -7,7 +7,7 @@ const productData = [
   { id : 4, title: 'Dress', price: 550, emoji: '👗' },
 ]
 
-
+// export our Slice
 export const products = createSlice({
   name: 'products',
   initialState: 
